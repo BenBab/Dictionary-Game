@@ -9,5 +9,5 @@ How to Use:
 3 - npm start
 
 
-This is a challenge where choosing a beginning string and an end string it will output how many steps it took to reach the end string by only changing one letter at a time.
-Plus the new words created must belong to a dictionary array of words.
+Used create react app to get it up and running quickly.
+code is all inside the app.js file, code is commented to explain what is going on
